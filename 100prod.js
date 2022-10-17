@@ -3,6 +3,10 @@ let array=[{
     price: 1,
     description:'18sne bac math tfol 3a9l w mzyen!'
 },{
+    name:'Rayen lamloumi',
+    price: 1,
+    description:'18sne bac math tfol 3a9l w mzyen!'
+},{
     name:'9set layla w el th2b',
     price: 10,
     description:'kteb moufid lezm ta9rah'
