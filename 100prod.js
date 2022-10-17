@@ -1,7 +1,7 @@
 let array=[{
-    name:'sabat messi',
-    price: 10000,
-    description:'sabbat hetha l3ab bih messi contre l brazil fi final l coppamerica !'
+    name:'Rayen lamloumi',
+    price: 1,
+    description:'18sne bac math tfol 3a9l w mzyen!'
 },{
     name:'9set layla w el th2b',
     price: 10,
